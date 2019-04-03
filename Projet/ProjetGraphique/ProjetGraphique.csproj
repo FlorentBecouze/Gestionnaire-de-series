@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{695D616C-625B-4D7A-ABE7-BBCD908D8A38}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProjetGraphique</RootNamespace>
+    <AssemblyName>ProjetGraphique</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Serialization" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="AjoutEpisode.xaml.cs">
+      <DependentUpon>AjoutEpisode.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AjoutPersonnage.xaml.cs">
+      <DependentUpon>AjoutPersonnage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AjoutSaison.xaml.cs">
+      <DependentUpon>AjoutSaison.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AjoutSerie.xaml.cs">
+      <DependentUpon>AjoutSerie.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FenetreSerie.xaml.cs">
+      <DependentUpon>FenetreSerie.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ModifCetEpisode.xaml.cs">
+      <DependentUpon>ModifCetEpisode.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ModifCetteSaison.xaml.cs">
+      <DependentUpon>ModifCetteSaison.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ModifCetteSerie.xaml.cs">
+      <DependentUpon>ModifCetteSerie.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ModifUnPersonnage.xaml.cs">
+      <DependentUpon>ModifUnPersonnage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="OngletCommentaires.xaml.cs">
+      <DependentUpon>OngletCommentaires.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="OngletPersonnages.xaml.cs">
+      <DependentUpon>OngletPersonnages.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="OngletSaisons.xaml.cs">
+      <DependentUpon>OngletSaisons.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="OngletSerie.xaml.cs">
+      <DependentUpon>OngletSerie.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pop-Up Episode.xaml.cs">
+      <DependentUpon>Pop-Up Episode.xaml</DependentUpon>
+    </Compile>
+    <Page Include="AjoutEpisode.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AjoutPersonnage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AjoutSaison.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AjoutSerie.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FenetreSerie.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ModifUnPersonnage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="ModifCetEpisode.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ModifCetteSaison.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ModifCetteSerie.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="OngletCommentaires.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="OngletPersonnages.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="OngletSaisons.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="OngletSerie.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pop-Up Episode.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bibli\Bibli.csproj">
+      <Project>{4f5aa216-2966-4200-8ac7-6fb31d08877e}</Project>
+      <Name>Bibli</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Donnees\Donnees.csproj">
+      <Project>{236ef3a3-e1c1-410b-a88d-1fcb41a0da6b}</Project>
+      <Name>Donnees</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Images\Affiche_Arrow.jpg" />
+    <Resource Include="Images\Affiche_Flash.jpg" />
+    <Resource Include="Images\Affiche_La_Casa_De_Papel.jpg" />
+    <Resource Include="Images\Affiche_NCIS.jpg" />
+    <Resource Include="Images\Affiche_Sherlock.jpg" />
+    <Resource Include="Images\Barry_Allen.jpg" />
+    <Resource Include="Images\Caitlin_Snow.jpg" />
+    <Resource Include="Images\Dr_Harrison_Wells.jpg" />
+    <Resource Include="Images\Felicity_Smoak.png" />
+    <Resource Include="Images\Francisco_Ramon.jpg" />
+    <Resource Include="Images\Iris_West.jpg" />
+    <Resource Include="Images\Joe_West.jpg" />
+    <Resource Include="Images\John_Diggle.jpg" />
+    <Resource Include="Images\Julian_Albert.jpg" />
+    <Resource Include="Images\Laurel_Lance.jpg" />
+    <Resource Include="Images\Malcolm_Merlyn.jpg" />
+    <Resource Include="Images\No_Photo.jpg" />
+    <Resource Include="Images\Oliver_Queen.jpg" />
+    <Resource Include="Images\Quentin_Lance.jpg" />
+    <Resource Include="Images\Roy_Harper.jpg" />
+    <Resource Include="Images\Thea_Queen.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

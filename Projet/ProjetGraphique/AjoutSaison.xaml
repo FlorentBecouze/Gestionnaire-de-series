@@ -1,0 +1,41 @@
+﻿<Window x:Class="ProjetGraphique.AjoutSaison"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjetGraphique"
+        mc:Ignorable="d"
+        Title="Informations de la nouvelle saison" Height="350" Width="480" MinWidth="480" MinHeight="350">
+
+
+    <Grid Margin="0,0,0,0">
+        <Grid.Background>
+            <LinearGradientBrush>
+                <GradientStop Color="LightBlue" Offset="0.0"/>
+                <GradientStop Color="Thistle" Offset="1.0"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="169*"/>
+            <RowDefinition Height="109*"/>
+        </Grid.RowDefinitions>
+
+        <DockPanel Grid.Row="0">
+            <Label x:Name="LabelNomNewSaison" Content="Nom de la saison :" VerticalAlignment="Center" Margin="20,0,0,0"/>
+            <TextBox x:Name="TextBoxNomNewSaison" VerticalAlignment="Center" Margin="10,0,180,0" MaxHeight="30" TextWrapping="Wrap"/>
+        </DockPanel>
+
+        <StackPanel Grid.Row="1">
+            <Label x:Name="LabelDescriptionNewSaison" Content="Description de la saison :" Margin="20,10,0,0"/>
+            <TextBox x:Name="TextBoxDescriptionNewSaison" Margin="10,10,10,0" MinHeight="110" MaxHeight="110" MaxLength="300" TextWrapping="Wrap" AcceptsReturn="true"/>
+        </StackPanel>
+
+        <Grid Grid.Row="2">
+            <Button Content="Enregistrer la nouvelle saison" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,-30,0,0" Click="EnregistrerNewSaison" IsDefault="True"/>
+            <Button Content="Annuler" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,60,0,0" Click="AnnulerNewSaison" IsCancel="True"/>
+        </Grid>
+
+
+    </Grid>
+</Window>

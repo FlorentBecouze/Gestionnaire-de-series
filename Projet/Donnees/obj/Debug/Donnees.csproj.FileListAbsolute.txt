@@ -1,0 +1,32 @@
+U:\Projet C#\Projet\Projet\Donnees\bin\Debug\Donnees2.dll
+U:\Projet C#\Projet\Projet\Donnees\bin\Debug\Donnees2.pdb
+U:\Projet C#\Projet\Projet\Donnees\bin\Debug\Bibli.dll
+U:\Projet C#\Projet\Projet\Donnees\bin\Debug\Bibli.pdb
+U:\Projet C#\Projet\Projet\Donnees\obj\Debug\Donnees.csprojResolveAssemblyReference.cache
+U:\Projet C#\Projet\Projet\Donnees\obj\Debug\Donnees2.dll
+U:\Projet C#\Projet\Projet\Donnees\obj\Debug\Donnees2.pdb
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\Donnees\bin\Debug\Donnees2.dll
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\Donnees\bin\Debug\Donnees2.pdb
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\Donnees\bin\Debug\Bibli.dll
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\Donnees\bin\Debug\Bibli.pdb
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\Donnees\obj\Debug\Donnees.csprojResolveAssemblyReference.cache
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\Donnees\obj\Debug\Donnees2.dll
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\Donnees\obj\Debug\Donnees2.pdb
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\Donnees\bin\Debug\Donnees2.dll
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\Donnees\bin\Debug\Donnees2.pdb
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\Donnees\bin\Debug\Bibli.dll
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\Donnees\bin\Debug\Bibli.pdb
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\Donnees\obj\Debug\Donnees.csprojAssemblyReference.cache
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\Donnees\obj\Debug\Donnees.csproj.CoreCompileInputs.cache
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\Donnees\obj\Debug\Donnees.csproj.CopyComplete
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\Donnees\obj\Debug\Donnees2.dll
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\Donnees\obj\Debug\Donnees2.pdb
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\Donnees\bin\Debug\Donnees2.dll
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\Donnees\bin\Debug\Donnees2.pdb
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\Donnees\bin\Debug\Bibli.dll
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\Donnees\bin\Debug\Bibli.pdb
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\Donnees\obj\Debug\Donnees.csprojAssemblyReference.cache
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\Donnees\obj\Debug\Donnees.csproj.CoreCompileInputs.cache
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\Donnees\obj\Debug\Donnees.csproj.CopyComplete
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\Donnees\obj\Debug\Donnees2.dll
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\Donnees\obj\Debug\Donnees2.pdb

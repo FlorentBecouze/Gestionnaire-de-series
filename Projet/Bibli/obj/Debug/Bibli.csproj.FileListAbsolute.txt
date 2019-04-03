@@ -1,0 +1,22 @@
+U:\Projet C#\Projet\Projet\Bibli\bin\Debug\Bibli.dll
+U:\Projet C#\Projet\Projet\Bibli\bin\Debug\Bibli.pdb
+U:\Projet C#\Projet\Projet\Bibli\obj\Debug\Bibli.csprojResolveAssemblyReference.cache
+U:\Projet C#\Projet\Projet\Bibli\obj\Debug\Bibli.dll
+U:\Projet C#\Projet\Projet\Bibli\obj\Debug\Bibli.pdb
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\Bibli\bin\Debug\Bibli.dll
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\Bibli\bin\Debug\Bibli.pdb
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\Bibli\obj\Debug\Bibli.csprojResolveAssemblyReference.cache
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\Bibli\obj\Debug\Bibli.dll
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\Bibli\obj\Debug\Bibli.pdb
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\Bibli\bin\Debug\Bibli.dll
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\Bibli\bin\Debug\Bibli.pdb
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\Bibli\obj\Debug\Bibli.csprojAssemblyReference.cache
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\Bibli\obj\Debug\Bibli.csproj.CoreCompileInputs.cache
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\Bibli\obj\Debug\Bibli.dll
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\Bibli\obj\Debug\Bibli.pdb
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\Bibli\bin\Debug\Bibli.dll
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\Bibli\bin\Debug\Bibli.pdb
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\Bibli\obj\Debug\Bibli.csprojAssemblyReference.cache
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\Bibli\obj\Debug\Bibli.csproj.CoreCompileInputs.cache
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\Bibli\obj\Debug\Bibli.dll
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\Bibli\obj\Debug\Bibli.pdb

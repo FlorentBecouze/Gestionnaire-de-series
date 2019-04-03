@@ -1,0 +1,479 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationGlobale xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Bibli">
+  <Description>Bienvenue sur cette application qui va vous permettre de gérer toutes vos séries préférées.
+Vous pourrez y ajouter vos séries ainsi que toutes les saisons et toutes les informations sur les personnages et sur les épisodes que vous voulez.
+Vous pourrez même donner vos ressentis sur la série, en mettant un petit commentaire et une note.
+Vous pourriez aussi demander à vos amis de donner leurs avis et voir si vous avez les mêmes goûts au niveau des séries.</Description>
+  <ListeComposantsApp>
+    <Composant i:type="Serie">
+      <collectionComposants>
+        <Composant i:type="Saison">
+          <collectionComposants>
+            <Composant i:type="Episode">
+              <Nom>Episode 1</Nom>
+              <DescriptionEpisode>Description du 1er épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 2</Nom>
+              <DescriptionEpisode>Description du 2ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 3</Nom>
+              <DescriptionEpisode>Description du 3ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 4</Nom>
+              <DescriptionEpisode>Description du 4ème épisode</DescriptionEpisode>
+            </Composant>
+          </collectionComposants>
+          <Nom>Saison 1</Nom>
+          <DescriptionSaison>Description de la 1ère saison</DescriptionSaison>
+          <ListeEpisodes>
+            <Composant i:type="Episode">
+              <Nom>Episode 1</Nom>
+              <DescriptionEpisode>Description du 1er épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 2</Nom>
+              <DescriptionEpisode>Description du 2ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 3</Nom>
+              <DescriptionEpisode>Description du 3ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 4</Nom>
+              <DescriptionEpisode>Description du 4ème épisode</DescriptionEpisode>
+            </Composant>
+          </ListeEpisodes>
+        </Composant>
+        <Composant i:type="Saison">
+          <collectionComposants>
+            <Composant i:type="Episode">
+              <Nom>Episode 1</Nom>
+              <DescriptionEpisode>Description du 1er épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 2</Nom>
+              <DescriptionEpisode>Description du 2ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 3</Nom>
+              <DescriptionEpisode>Description du 3ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 4</Nom>
+              <DescriptionEpisode>Description du 4ème épisode</DescriptionEpisode>
+            </Composant>
+          </collectionComposants>
+          <Nom>Saison 2</Nom>
+          <DescriptionSaison>Description de la 2ème saison</DescriptionSaison>
+          <ListeEpisodes>
+            <Composant i:type="Episode">
+              <Nom>Episode 1</Nom>
+              <DescriptionEpisode>Description du 1er épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 2</Nom>
+              <DescriptionEpisode>Description du 2ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 3</Nom>
+              <DescriptionEpisode>Description du 3ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 4</Nom>
+              <DescriptionEpisode>Description du 4ème épisode</DescriptionEpisode>
+            </Composant>
+          </ListeEpisodes>
+        </Composant>
+        <Composant i:type="Saison">
+          <collectionComposants>
+            <Composant i:type="Episode">
+              <Nom>Episode 1</Nom>
+              <DescriptionEpisode>Description du 1er épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 2</Nom>
+              <DescriptionEpisode>Description du 2ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 3</Nom>
+              <DescriptionEpisode>Description du 3ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 4</Nom>
+              <DescriptionEpisode>Description du 4ème épisode</DescriptionEpisode>
+            </Composant>
+          </collectionComposants>
+          <Nom>Saison 3</Nom>
+          <DescriptionSaison>Description de la 3ème saison</DescriptionSaison>
+          <ListeEpisodes>
+            <Composant i:type="Episode">
+              <Nom>Episode 1</Nom>
+              <DescriptionEpisode>Description du 1er épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 2</Nom>
+              <DescriptionEpisode>Description du 2ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 3</Nom>
+              <DescriptionEpisode>Description du 3ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 4</Nom>
+              <DescriptionEpisode>Description du 4ème épisode</DescriptionEpisode>
+            </Composant>
+          </ListeEpisodes>
+        </Composant>
+        <Composant i:type="Saison">
+          <collectionComposants>
+            <Composant i:type="Episode">
+              <Nom>Episode 1</Nom>
+              <DescriptionEpisode>Description du 1er épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 2</Nom>
+              <DescriptionEpisode>Description du 2ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 3</Nom>
+              <DescriptionEpisode>Description du 3ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 4</Nom>
+              <DescriptionEpisode>Description du 4ème épisode</DescriptionEpisode>
+            </Composant>
+          </collectionComposants>
+          <Nom>Saison 4</Nom>
+          <DescriptionSaison>Description de la 4ème saison</DescriptionSaison>
+          <ListeEpisodes>
+            <Composant i:type="Episode">
+              <Nom>Episode 1</Nom>
+              <DescriptionEpisode>Description du 1er épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 2</Nom>
+              <DescriptionEpisode>Description du 2ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 3</Nom>
+              <DescriptionEpisode>Description du 3ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 4</Nom>
+              <DescriptionEpisode>Description du 4ème épisode</DescriptionEpisode>
+            </Composant>
+          </ListeEpisodes>
+        </Composant>
+        <Composant i:type="Personnage">
+          <Nom>Barry Allen</Nom>
+          <DescriptionPersonnage>Personnage principal de la série, joué par Grant Gustin. Il est recueilli par l'ami (Joe West) de son père, quand ce dernier est accusé d'avoir assassiné sa femme. Barry est amoureux d'Iris depuis l'enfance.</DescriptionPersonnage>
+          <Photo>/Images/Barry_Allen.jpg</Photo>
+        </Composant>
+        <Composant i:type="Personnage">
+          <Nom>Iris West</Nom>
+          <DescriptionPersonnage>Soeur adoptive de Barry</DescriptionPersonnage>
+          <Photo>/Images/No_Photo.jpg</Photo>
+        </Composant>
+        <Composant i:type="Personnage">
+          <Nom>Francisco « Cisco » Ramon / Vibe</Nom>
+          <DescriptionPersonnage>Scientifique de StarLab.</DescriptionPersonnage>
+          <Photo>/Images/No_Photo.jpg</Photo>
+        </Composant>
+        <Composant i:type="Personnage">
+          <Nom>Caitlin Snow / Killer Frost</Nom>
+          <DescriptionPersonnage>Scientifique de StarLab.</DescriptionPersonnage>
+          <Photo>/Images/No_Photo.jpg</Photo>
+        </Composant>
+        <Composant i:type="Personnage">
+          <Nom>Dr Harrison Wells / Eobard Thawne / Negatif de Flash</Nom>
+          <DescriptionPersonnage>Personnage à multiples facettes dans la série.</DescriptionPersonnage>
+          <Photo>/Images/No_Photo.jpg</Photo>
+        </Composant>
+        <Composant i:type="Personnage">
+          <Nom>Lieutenant Joe West</Nom>
+          <DescriptionPersonnage>Père adoptif de Barry.</DescriptionPersonnage>
+          <Photo>/Images/No_Photo.jpg</Photo>
+        </Composant>
+        <Composant i:type="Commentaire">
+          <Nom>Paul</Nom>
+          <Texte>J'adore vivement la saison 4 en VF</Texte>
+          <Note>5</Note>
+        </Composant>
+        <Composant i:type="Commentaire">
+          <Nom>Pierre</Nom>
+          <Texte>Pas assez fidèle à la BD à mon goût</Texte>
+          <Note>2</Note>
+        </Composant>
+        <Composant i:type="Commentaire">
+          <Nom>Jacques</Nom>
+          <Texte>Moyen</Texte>
+          <Note>3</Note>
+        </Composant>
+        <Composant i:type="Commentaire">
+          <Nom>Eric</Nom>
+          <Texte>Plutôt pas mal</Texte>
+          <Note>4</Note>
+        </Composant>
+        <Composant i:type="Commentaire">
+          <Nom>Jean</Nom>
+          <Texte>J'adore vivement la saison 4 en VFJ'adore vivement la saison 4 en VFJ'adore vivement la saison 4 en VFJ'adore vivement la saison 4 en VFJ'adore vivement la saison 4 en VFJ'adore vivement la saison 4 en VF</Texte>
+          <Note>3</Note>
+        </Composant>
+      </collectionComposants>
+      <Nom>Flash</Nom>
+      <DescriptionSerie>Barry Allen, est un analyste dans la police de Central City, jusqu'au jour où l'accélérateur de particules, de l'entreprise StarLab, explose, et lui confère le pouvoir de courir aussi vite qu'un éclair.</DescriptionSerie>
+      <Affiche>/Images/Affiche_flash.jpg</Affiche>
+      <ListeSaisons>
+        <Composant i:type="Saison">
+          <collectionComposants>
+            <Composant i:type="Episode">
+              <Nom>Episode 1</Nom>
+              <DescriptionEpisode>Description du 1er épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 2</Nom>
+              <DescriptionEpisode>Description du 2ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 3</Nom>
+              <DescriptionEpisode>Description du 3ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 4</Nom>
+              <DescriptionEpisode>Description du 4ème épisode</DescriptionEpisode>
+            </Composant>
+          </collectionComposants>
+          <Nom>Saison 1</Nom>
+          <DescriptionSaison>Description de la 1ère saison</DescriptionSaison>
+          <ListeEpisodes>
+            <Composant i:type="Episode">
+              <Nom>Episode 1</Nom>
+              <DescriptionEpisode>Description du 1er épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 2</Nom>
+              <DescriptionEpisode>Description du 2ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 3</Nom>
+              <DescriptionEpisode>Description du 3ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 4</Nom>
+              <DescriptionEpisode>Description du 4ème épisode</DescriptionEpisode>
+            </Composant>
+          </ListeEpisodes>
+        </Composant>
+        <Composant i:type="Saison">
+          <collectionComposants>
+            <Composant i:type="Episode">
+              <Nom>Episode 1</Nom>
+              <DescriptionEpisode>Description du 1er épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 2</Nom>
+              <DescriptionEpisode>Description du 2ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 3</Nom>
+              <DescriptionEpisode>Description du 3ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 4</Nom>
+              <DescriptionEpisode>Description du 4ème épisode</DescriptionEpisode>
+            </Composant>
+          </collectionComposants>
+          <Nom>Saison 2</Nom>
+          <DescriptionSaison>Description de la 2ème saison</DescriptionSaison>
+          <ListeEpisodes>
+            <Composant i:type="Episode">
+              <Nom>Episode 1</Nom>
+              <DescriptionEpisode>Description du 1er épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 2</Nom>
+              <DescriptionEpisode>Description du 2ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 3</Nom>
+              <DescriptionEpisode>Description du 3ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 4</Nom>
+              <DescriptionEpisode>Description du 4ème épisode</DescriptionEpisode>
+            </Composant>
+          </ListeEpisodes>
+        </Composant>
+        <Composant i:type="Saison">
+          <collectionComposants>
+            <Composant i:type="Episode">
+              <Nom>Episode 1</Nom>
+              <DescriptionEpisode>Description du 1er épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 2</Nom>
+              <DescriptionEpisode>Description du 2ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 3</Nom>
+              <DescriptionEpisode>Description du 3ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 4</Nom>
+              <DescriptionEpisode>Description du 4ème épisode</DescriptionEpisode>
+            </Composant>
+          </collectionComposants>
+          <Nom>Saison 3</Nom>
+          <DescriptionSaison>Description de la 3ème saison</DescriptionSaison>
+          <ListeEpisodes>
+            <Composant i:type="Episode">
+              <Nom>Episode 1</Nom>
+              <DescriptionEpisode>Description du 1er épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 2</Nom>
+              <DescriptionEpisode>Description du 2ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 3</Nom>
+              <DescriptionEpisode>Description du 3ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 4</Nom>
+              <DescriptionEpisode>Description du 4ème épisode</DescriptionEpisode>
+            </Composant>
+          </ListeEpisodes>
+        </Composant>
+        <Composant i:type="Saison">
+          <collectionComposants>
+            <Composant i:type="Episode">
+              <Nom>Episode 1</Nom>
+              <DescriptionEpisode>Description du 1er épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 2</Nom>
+              <DescriptionEpisode>Description du 2ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 3</Nom>
+              <DescriptionEpisode>Description du 3ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 4</Nom>
+              <DescriptionEpisode>Description du 4ème épisode</DescriptionEpisode>
+            </Composant>
+          </collectionComposants>
+          <Nom>Saison 4</Nom>
+          <DescriptionSaison>Description de la 4ème saison</DescriptionSaison>
+          <ListeEpisodes>
+            <Composant i:type="Episode">
+              <Nom>Episode 1</Nom>
+              <DescriptionEpisode>Description du 1er épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 2</Nom>
+              <DescriptionEpisode>Description du 2ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 3</Nom>
+              <DescriptionEpisode>Description du 3ème épisode</DescriptionEpisode>
+            </Composant>
+            <Composant i:type="Episode">
+              <Nom>Episode 4</Nom>
+              <DescriptionEpisode>Description du 4ème épisode</DescriptionEpisode>
+            </Composant>
+          </ListeEpisodes>
+        </Composant>
+      </ListeSaisons>
+      <ListePersonnages>
+        <Composant i:type="Personnage">
+          <Nom>Barry Allen</Nom>
+          <DescriptionPersonnage>Personnage principal de la série, joué par Grant Gustin. Il est recueilli par l'ami (Joe West) de son père, quand ce dernier est accusé d'avoir assassiné sa femme. Barry est amoureux d'Iris depuis l'enfance.</DescriptionPersonnage>
+          <Photo>/Images/Barry_Allen.jpg</Photo>
+        </Composant>
+        <Composant i:type="Personnage">
+          <Nom>Iris West</Nom>
+          <DescriptionPersonnage>Soeur adoptive de Barry</DescriptionPersonnage>
+          <Photo>/Images/No_Photo.jpg</Photo>
+        </Composant>
+        <Composant i:type="Personnage">
+          <Nom>Francisco « Cisco » Ramon / Vibe</Nom>
+          <DescriptionPersonnage>Scientifique de StarLab.</DescriptionPersonnage>
+          <Photo>/Images/No_Photo.jpg</Photo>
+        </Composant>
+        <Composant i:type="Personnage">
+          <Nom>Caitlin Snow / Killer Frost</Nom>
+          <DescriptionPersonnage>Scientifique de StarLab.</DescriptionPersonnage>
+          <Photo>/Images/No_Photo.jpg</Photo>
+        </Composant>
+        <Composant i:type="Personnage">
+          <Nom>Dr Harrison Wells / Eobard Thawne / Negatif de Flash</Nom>
+          <DescriptionPersonnage>Personnage à multiples facettes dans la série.</DescriptionPersonnage>
+          <Photo>/Images/No_Photo.jpg</Photo>
+        </Composant>
+        <Composant i:type="Personnage">
+          <Nom>Lieutenant Joe West</Nom>
+          <DescriptionPersonnage>Père adoptif de Barry.</DescriptionPersonnage>
+          <Photo>/Images/No_Photo.jpg</Photo>
+        </Composant>
+      </ListePersonnages>
+      <ListeCommentaires>
+        <Composant i:type="Commentaire">
+          <Nom>Paul</Nom>
+          <Texte>J'adore vivement la saison 4 en VF</Texte>
+          <Note>5</Note>
+        </Composant>
+        <Composant i:type="Commentaire">
+          <Nom>Pierre</Nom>
+          <Texte>Pas assez fidèle à la BD à mon goût</Texte>
+          <Note>2</Note>
+        </Composant>
+        <Composant i:type="Commentaire">
+          <Nom>Jacques</Nom>
+          <Texte>Moyen</Texte>
+          <Note>3</Note>
+        </Composant>
+        <Composant i:type="Commentaire">
+          <Nom>Eric</Nom>
+          <Texte>Plutôt pas mal</Texte>
+          <Note>4</Note>
+        </Composant>
+        <Composant i:type="Commentaire">
+          <Nom>Jean</Nom>
+          <Texte>J'adore vivement la saison 4 en VFJ'adore vivement la saison 4 en VFJ'adore vivement la saison 4 en VFJ'adore vivement la saison 4 en VFJ'adore vivement la saison 4 en VFJ'adore vivement la saison 4 en VF</Texte>
+          <Note>3</Note>
+        </Composant>
+      </ListeCommentaires>
+    </Composant>
+    <Composant i:type="Serie">
+      <collectionComposants />
+      <Nom>Arrow</Nom>
+      <DescriptionSerie>Description de la série Arrow</DescriptionSerie>
+      <Affiche>/Images/Affiche_Arrow.jpg</Affiche>
+      <ListeSaisons />
+      <ListePersonnages />
+      <ListeCommentaires />
+    </Composant>
+    <Composant i:type="Serie">
+      <collectionComposants />
+      <Nom>NCIS</Nom>
+      <DescriptionSerie>Description de la série NCIS</DescriptionSerie>
+      <Affiche>/Images/Affiche_NCIS.jpg</Affiche>
+      <ListeSaisons />
+      <ListePersonnages />
+      <ListeCommentaires />
+    </Composant>
+    <Composant i:type="Serie">
+      <collectionComposants />
+      <Nom>Sherlock Holmes</Nom>
+      <DescriptionSerie>Description de la série Sherlock Holmes</DescriptionSerie>
+      <Affiche>/Images/Affiche_Sherlock.jpg</Affiche>
+      <ListeSaisons />
+      <ListePersonnages />
+      <ListeCommentaires />
+    </Composant>
+  </ListeComposantsApp>
+</ApplicationGlobale>

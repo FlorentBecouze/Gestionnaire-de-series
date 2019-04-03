@@ -1,0 +1,76 @@
+﻿<Window x:Class="ProjetGraphique.Pop_Up_Episode"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjetGraphique"
+        mc:Ignorable="d"
+        Title="{Binding Nom}" Height="460" Width="640" MinWidth="640" MinHeight="460">
+    <Grid Margin="0,0,0,0">
+        <Grid.Background>
+            <LinearGradientBrush>
+                <GradientStop Color="LightBlue" Offset="0.0"/>
+                <GradientStop Color="Thistle" Offset="1.0"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="55*"/>
+            <RowDefinition Height="367*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Grid.Column="0" x:Name="TBNomEpisode" Text="{Binding Nom}" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" TextWrapping="Wrap"/>
+            <Button Grid.Column="1" x:Name="BoutonCetEpisode" Content="Modifier cet épisode" Height="24" HorizontalAlignment="Center" VerticalAlignment="Center" Click="ModifierCetEpisode" FontSize="14"/>
+        </Grid>
+
+        <!--<Label Grid.Row="1" Content="Description de l'épisode" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,50,0,0"/>-->
+        <TextBlock Grid.Row="1" Text="{Binding DescriptionEpisode}" HorizontalAlignment="Center" Margin="60,100,60,60" TextAlignment="Center" TextWrapping="Wrap"/>
+
+
+
+        <!--Bloque permettant de lire des vidéos/musiques-->
+
+
+        <!--<StackPanel Margin="24,69,0,0" Grid.Row="1">
+
+            -->
+        <!-- To interactively stop, pause, and play the media, the LoadedBehavior 
+           property of the MediaElement must be set to "Manual". -->
+        <!--
+            <MediaElement Source="" Name="Player" Height="251" LoadedBehavior="Manual" UnloadedBehavior="Stop" Stretch="Fill" 
+     MediaOpened="Element_MediaOpened" MediaEnded="Element_MediaEnded" Margin="77,0,89,0"/>
+            <StackPanel HorizontalAlignment="Center" Width="537" Orientation="Horizontal">
+
+                -->
+        <!-- Play button. -->
+
+        <!-- Pause button. -->
+        <!--
+                <Image Source="" MouseDown="OnMouseDownPlayMedia" Margin="5" MaxHeight="50" MaxWidth="50" Height="40" Width="40"/>
+
+                <Image Source="" MouseDown="OnMouseDownPauseMedia" Margin="5" MaxHeight="50" MaxWidth="50" Height="40" Width="40"/>
+
+                <Image Source="" MouseDown="OnMouseDownStopMedia" Margin="5" MaxHeight="50" MaxWidth="50" Width="30" Height="30"/>
+
+                <TextBlock VerticalAlignment="Center" Margin="5"  ><Run Text="Volume"/></TextBlock>
+                <Slider x:Name="volumeSlider" VerticalAlignment="Center" ValueChanged="ChangeMediaVolume" 
+       Minimum="0" Maximum="1" Value="0.5" Width="70"/>
+
+                <TextBlock Margin="5"  VerticalAlignment="Center"><Run Text="Speed"/></TextBlock>
+                <Slider x:Name="speedRatioSlider" VerticalAlignment="Center" ValueChanged="ChangeMediaSpeedRatio" 
+       Value="1" Width="70" />
+
+                <TextBlock Margin="5"  VerticalAlignment="Center"><Run Text="Seek To"/></TextBlock>
+                <Slider x:Name="timelineSlider" Margin="5" ValueChanged="SeekToMediaPosition" Width="59" Height="18"/>
+
+            </StackPanel>
+        </StackPanel>-->
+
+
+    </Grid>
+</Window>

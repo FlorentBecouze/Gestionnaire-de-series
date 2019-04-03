@@ -1,0 +1,76 @@
+﻿<Window x:Class="ProjetGraphique.FenetreSerie"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjetGraphique"
+        mc:Ignorable="d"
+        Title="Fenêtre Série" Name="NomFenetreSerie" Height="540" Width="740" MinWidth="740" MinHeight="540" Closing="Fermeture">
+  
+    <Grid Margin="0,0,0,0" Name="mGrid">
+        <Grid.Background>
+            <LinearGradientBrush>
+                <GradientStop Color="LightBlue" Offset="0.0"/>
+                <GradientStop Color="Thistle" Offset="1.0"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="36*" MaxWidth="168" />
+            <ColumnDefinition Width="100*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Column="0" x:Name="LabelListeSeries" Content="Liste des séries :" VerticalAlignment="Top" Margin="20,13,31,0"/>
+        
+        
+        <!--Liste des séries :-->
+        <ListView Grid.Column="0" x:Name="MasterSeries" ItemsSource="{Binding ListeComposantsApp}" IsSynchronizedWithCurrentItem="True" Width="150" HorizontalAlignment="Left" Margin="8,50,0,64" HorizontalContentAlignment="Center" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Nom}" TextAlignment="Center" TextWrapping="Wrap"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
+        
+        <Button Grid.Column="0" x:Name="BoutonAjoutSerie" Content="Ajouter une série" HorizontalAlignment="Center" VerticalAlignment="Bottom" Height="24" Margin="0,0,0,35" Click="AjouterSerie"/>
+        <Button Grid.Column="0" x:Name="BoutonModifCetteSerie" Content="Modifier cette série" HorizontalAlignment="Center" VerticalAlignment="Bottom" Height="24" Margin="0,0,0,5" Click="ModifierCetteSerie"/>
+
+        
+        <!-- Permet de changer le DataContext en fonction de l'élément sélectionné dans la liste -->
+        <ContentControl Grid.Column="1" x:Name="ContentControl" Content="{Binding ElementName=MasterSeries, Path=ItemsSource}">
+            <ContentControl.ContentTemplate>
+                <DataTemplate>
+                    <Grid Grid.Column="1">
+                        <TabControl x:Name="tabControl" Margin="21,12,23,16">
+
+                            <!--Onglet Série-->
+                            <TabItem Header="Série">
+                                <local:OngletSerie/>
+                            </TabItem>
+
+
+                            <!--Onglet Saisons-->
+                            <TabItem Header="Saisons">
+                                <local:OngletSaisons/>
+                            </TabItem>
+
+
+                            <!--Onglet Personnages-->
+                            <TabItem Header="Personnages">
+                                <local:OngletPersonnages/>
+                            </TabItem>
+
+
+                            <!--Onglet Commentaires-->
+                            <TabItem Header="Commentaires">
+                                <local:OngletCommentaires/>
+                            </TabItem>
+
+                        </TabControl>
+                    </Grid>
+                </DataTemplate>
+            </ContentControl.ContentTemplate>
+        </ContentControl>
+
+    </Grid>
+</Window>

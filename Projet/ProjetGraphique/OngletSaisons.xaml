@@ -1,0 +1,70 @@
+﻿<UserControl x:Class="ProjetGraphique.OngletSaisons"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ProjetGraphique"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="500">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush>
+                <GradientStop Color="Thistle" Offset="0.0"/>
+                <GradientStop Color="LightBlue" Offset="1.0"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="110*" MaxWidth="110"/>
+            <ColumnDefinition Width="312*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="283*"/>
+            <RowDefinition Height="55*"/>
+        </Grid.RowDefinitions>
+
+        <ListView Grid.Column="0" Grid.Row="0" x:Name="MasterSaisons" ItemsSource="{Binding ListeSaisons}" IsSynchronizedWithCurrentItem="True" Width="103" Margin="0,1,0,1" HorizontalContentAlignment="Center" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Name="NomSerie" Text="{Binding Nom}" TextWrapping="Wrap"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+
+        <Grid x:Name="GridSaison" Grid.Column="1" Grid.Row="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="166*"/>
+                <RowDefinition Height="169*"/>
+            </Grid.RowDefinitions>
+
+
+            <Grid x:Name="GridDescriptionSaison" Grid.Row="0" DataContext="{Binding ElementName=MasterSaisons, Path=ItemsSource}">
+                <TextBlock x:Name="TBInfosSeries" Text="{Binding DescriptionSaison}" HorizontalAlignment="Center" VerticalAlignment="Top" TextAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap"/>
+            </Grid>
+
+            <Grid Grid.Row="1" DataContext="{Binding ElementName=MasterSaisons, Path=ItemsSource}">
+                <Label x:Name="LabelListeEpisodes" Content="Liste des épisodes :" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top"/>
+                <ListView x:Name="MasterEpisodes" ItemsSource="{Binding ListeEpisodes}" MinWidth="90" IsSynchronizedWithCurrentItem="True" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,50,0,0" HorizontalContentAlignment="Center">
+                    <ListView.ItemTemplate>
+                        <DataTemplate >
+                            <TextBlock Name="NomEpisode" Text="{Binding Nom}" MouseDown="CliqueEpisode" TextAlignment="Center" TextWrapping="Wrap"/>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Grid>
+        </Grid>
+
+        <Button Grid.Column="0" Grid.Row="1" DataContext="{Binding collectionComposants}" x:Name="BoutonAjoutSaison" Content="Ajouter une saison" HorizontalAlignment="Center" VerticalAlignment="Center" Height="24" Margin="1,0,0,0" Click="AjouterSaison"/>
+
+        <Grid Grid.Column="1" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+
+            <Button Grid.Column="0" x:Name="BoutonModifSaison" Content="Modifier cette saison" Height="24" HorizontalAlignment="Center" VerticalAlignment="Center" Click="ModifierCetteSaison"/>
+            <Button Grid.Column="1" x:Name="BoutonAjoutEpisode" Content="Ajouter un épisode" Height="24" HorizontalAlignment="Center" VerticalAlignment="Center" Click="AjouterEpisode"/>
+        </Grid>
+
+    </Grid>
+</UserControl>

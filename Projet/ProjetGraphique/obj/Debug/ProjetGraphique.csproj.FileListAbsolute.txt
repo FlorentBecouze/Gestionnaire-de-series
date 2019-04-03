@@ -1,0 +1,184 @@
+U:\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\ProjetGraphique.exe.config
+U:\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\ProjetGraphique.exe
+U:\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\ProjetGraphique.pdb
+U:\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\Bibli.dll
+U:\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\Donnees2.dll
+U:\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\Bibli.pdb
+U:\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\Donnees2.pdb
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.csprojResolveAssemblyReference.cache
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutEpisode.g.cs
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutPersonnage.g.cs
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutSaison.g.cs
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutSerie.g.cs
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\FenetreSerie.g.cs
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifUnPersonnage.g.cs
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetEpisode.g.cs
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetteSaison.g.cs
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetteSerie.g.cs
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletCommentaires.g.cs
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletPersonnages.g.cs
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletSaisons.g.cs
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletSerie.g.cs
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\Pop-Up Episode.g.cs
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\App.g.cs
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique_MarkupCompile.cache
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique_MarkupCompile.lref
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutEpisode.baml
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutPersonnage.baml
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutSaison.baml
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutSerie.baml
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\FenetreSerie.baml
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifUnPersonnage.baml
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetEpisode.baml
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetteSaison.baml
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetteSerie.baml
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletCommentaires.baml
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletPersonnages.baml
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletSaisons.baml
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletSerie.baml
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\Pop-Up Episode.baml
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.g.resources
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.Properties.Resources.resources
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.csproj.GenerateResource.Cache
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.exe
+U:\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.pdb
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\ProjetGraphique.exe.config
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.exe
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.pdb
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\ProjetGraphique.exe
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\ProjetGraphique.pdb
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\Bibli.dll
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\Donnees2.dll
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\Bibli.pdb
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\Donnees2.pdb
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.csprojResolveAssemblyReference.cache
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutEpisode.g.cs
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutPersonnage.g.cs
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutSaison.g.cs
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutSerie.g.cs
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\FenetreSerie.g.cs
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifUnPersonnage.g.cs
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetEpisode.g.cs
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetteSaison.g.cs
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetteSerie.g.cs
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletCommentaires.g.cs
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletPersonnages.g.cs
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletSaisons.g.cs
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletSerie.g.cs
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\Pop-Up Episode.g.cs
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\App.g.cs
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique_MarkupCompile.cache
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique_MarkupCompile.lref
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutEpisode.baml
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutPersonnage.baml
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutSaison.baml
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutSerie.baml
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\FenetreSerie.baml
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifUnPersonnage.baml
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetEpisode.baml
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetteSaison.baml
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetteSerie.baml
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletCommentaires.baml
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletPersonnages.baml
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletSaisons.baml
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletSerie.baml
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\Pop-Up Episode.baml
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.g.resources
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.Properties.Resources.resources
+C:\Users\Florent\Desktop\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.csproj.GenerateResource.Cache
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\ProjetGraphique.exe.config
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\ProjetGraphique.exe
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\ProjetGraphique.pdb
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\Bibli.dll
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\Donnees2.dll
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\Bibli.pdb
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\bin\Debug\Donnees2.pdb
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.csprojAssemblyReference.cache
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutEpisode.g.cs
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutPersonnage.g.cs
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutSaison.g.cs
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutSerie.g.cs
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\FenetreSerie.g.cs
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifUnPersonnage.g.cs
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetEpisode.g.cs
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetteSaison.g.cs
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetteSerie.g.cs
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletCommentaires.g.cs
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletPersonnages.g.cs
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletSaisons.g.cs
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletSerie.g.cs
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\Pop-Up Episode.g.cs
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\App.g.cs
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique_MarkupCompile.cache
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique_MarkupCompile.lref
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutEpisode.baml
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutPersonnage.baml
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutSaison.baml
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\AjoutSerie.baml
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\FenetreSerie.baml
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifUnPersonnage.baml
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetEpisode.baml
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetteSaison.baml
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ModifCetteSerie.baml
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletCommentaires.baml
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletPersonnages.baml
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletSaisons.baml
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\OngletSerie.baml
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\Pop-Up Episode.baml
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.g.resources
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.Properties.Resources.resources
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.csproj.GenerateResource.cache
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.csproj.CoreCompileInputs.cache
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.csproj.CopyComplete
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.exe
+C:\Users\Florent\Desktop\Cours\IUT\1ère année\Période 4\Bases COO et IHM\Projet C#\Projet\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.pdb
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\bin\Debug\ProjetGraphique.exe.config
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\bin\Debug\ProjetGraphique.exe
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\bin\Debug\ProjetGraphique.pdb
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\bin\Debug\Bibli.dll
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\bin\Debug\Donnees2.dll
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\bin\Debug\Bibli.pdb
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\bin\Debug\Donnees2.pdb
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.csprojAssemblyReference.cache
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\AjoutEpisode.g.cs
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\AjoutPersonnage.g.cs
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\AjoutSaison.g.cs
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\AjoutSerie.g.cs
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\FenetreSerie.g.cs
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ModifUnPersonnage.g.cs
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ModifCetEpisode.g.cs
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ModifCetteSaison.g.cs
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ModifCetteSerie.g.cs
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\OngletCommentaires.g.cs
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\OngletPersonnages.g.cs
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\OngletSaisons.g.cs
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\OngletSerie.g.cs
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\Pop-Up Episode.g.cs
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\App.g.cs
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ProjetGraphique_MarkupCompile.cache
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ProjetGraphique_MarkupCompile.lref
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\AjoutEpisode.baml
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\AjoutPersonnage.baml
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\AjoutSaison.baml
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\AjoutSerie.baml
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\FenetreSerie.baml
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ModifUnPersonnage.baml
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ModifCetEpisode.baml
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ModifCetteSaison.baml
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ModifCetteSerie.baml
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\OngletCommentaires.baml
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\OngletPersonnages.baml
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\OngletSaisons.baml
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\OngletSerie.baml
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\Pop-Up Episode.baml
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.g.resources
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.Properties.Resources.resources
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.csproj.GenerateResource.cache
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.csproj.CoreCompileInputs.cache
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.csproj.CopyComplete
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.exe
+C:\Users\Florent\Desktop\Gestionnaire-de-series\Projet\ProjetGraphique\obj\Debug\ProjetGraphique.pdb
