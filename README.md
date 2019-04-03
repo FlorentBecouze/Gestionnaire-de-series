@@ -1,5 +1,5 @@
 # Gestionnaire-de-series
-Projet de 1ère année en C# permettant de gérer des séries.
+Projet de 1ère année en C# permettant de gérer des séries télévisées, de livres, ...
 
 <p align="center">
   <img src="http://laplumedauphine.fr/wordpress/wp-content/uploads/2016/12/series-TV-22-avril-2013-678x381.jpg" width=600/>
