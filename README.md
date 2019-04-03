@@ -9,11 +9,11 @@ Cette application vous donnera la possibilité de vous créer une sorte de journ
 
 En effet, vous pourrez y ajouter les saisons, épisodes et même les personnages, tout ça dans la plus grande simplicité.
 
-Un système de commentaire, vous permettra de mettre les avis sur la série de tous vos amis
+Un système de commentaire, vous permettra de mettre les avis sur la série de tous vos amis. :sunglasses: :clap:
 <br/>(Ce système n'est pas mis en réseau, donc il faudra demander et remplir les commentaires soit même.) :confounded:  :disappointed_relieved:
 
 
-**Une petite vidéo est présente pour vous montrer comment utiliser notre application.**
+**<br/>Une petite vidéo est présente pour vous montrer comment utiliser notre application.**
 
 <br/>
 Développeurs :
